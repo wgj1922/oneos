@@ -1,2 +1,2 @@
 # oneos
-study oneosy
+study oneos
